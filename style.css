@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.border {
+    border: 1px solid black !important;
+}
+.green {
+    background-color: green;
+}
+.pink {
+    background-color: pink;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+.h100 {
+    height: 100px;
+}
+.h150 {
+    height: 150px;
+}
+.h300 {
+    height: 300px;
+}
+div.col-8 {
+    padding-left: 0;
+}
+div.col-4 {
+    padding-right: 0;
+}
